@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files
+data/raw/*.csv
+data/raw/*.pkl
+data/raw/*.gz
+data/processed/*.pkl
+
+# Generated results
+05_experiments/results/*.pkl
+05_experiments/results/*.csv
+
+# Generated figures
+07_visualizations/figures/*.png
+07_visualizations/figures/*.pdf
+07_visualizations/figures/*.svg
+
+# Logs
+*.log
+
+# Compiled reports
+09_final_report/*.pdf
+09_final_report/*.docx
