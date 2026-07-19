@@ -9,7 +9,7 @@ Este archivo registra las búsquedas realizadas, los filtros aplicados, los arch
 
 ### Criterios de inclusión
 
-- Publicaciones entre 2019 y 2026.
+- Publicaciones entre 2021 y 2026.
 - Artículos de revista o trabajos completos de conferencia.
 - Publicaciones en inglés.
 - Estudios relacionados con clasificación o reconocimiento de imágenes.
