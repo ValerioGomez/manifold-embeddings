@@ -84,7 +84,6 @@ AND LIMIT-TO(LANGUAGE, "English")
 ```
 
 **Resultado:** 222 registros exportados en formato BibTeX.  
-**Archivo:** `scopus_export_Jul 19-2026_bfdf8672-57f4-49bc-aa0c-c1fec1e7c0da.bib`.
 
 ### 3.2. Web of Science Core Collection
 
