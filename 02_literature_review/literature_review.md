@@ -204,7 +204,3 @@ Peng, Y., Wang, H., Sonka, M., & Chen, D. Z. (2024). PHG-Net: Persistent homolog
 Samani, E. U., & Banerjee, A. G. (2024). Persistent homology meets object unity: Object recognition in clutter. *IEEE Transactions on Robotics, 40*, 886–902. https://doi.org/10.1109/TRO.2023.3343994
 
 Valem, L. P., Pedronette, D. C. G., & Latecki, L. J. (2023). Graph convolutional networks based on manifold learning for semi-supervised image classification. *Computer Vision and Image Understanding, 227*, 103618. https://doi.org/10.1016/j.cviu.2022.103618
-
-## Declaración sobre el uso de inteligencia artificial
-
-Se utilizó una herramienta de inteligencia artificial como apoyo para organizar la evidencia extraída, comparar los artículos y revisar la redacción. La selección final, la verificación de los datos disponibles y la responsabilidad sobre la interpretación académica corresponden al autor del trabajo. Antes de entregar la versión definitiva, se recomienda contrastar cada referencia con el PDF institucional y adaptar esta declaración a la política del curso
