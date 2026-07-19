@@ -1,8 +1,6 @@
 # 📋 Registro de búsquedas — Literature Review
 
 **Proyecto:** *Comparación de embeddings basados en variedades y descriptores topológicos para clasificación de imágenes: exactitud, robustez y complejidad computacional*  
-**Fecha de búsqueda:** 2026-07-19  
-**Investigador:** Jean Pierre  
 **Bases consultadas:** Scopus, Web of Science Core Collection e IEEE Xplore
 
 Este archivo registra las búsquedas realizadas, los filtros aplicados, los archivos exportados y los artículos finalmente seleccionados. Su finalidad es evitar duplicaciones y permitir la reproducción de la estrategia de búsqueda.
