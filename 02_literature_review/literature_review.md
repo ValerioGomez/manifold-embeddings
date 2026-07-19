@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS
 ### Unidad de Posgrado — Doctorado en DeepTech
