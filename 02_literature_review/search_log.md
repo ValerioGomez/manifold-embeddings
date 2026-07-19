@@ -135,7 +135,6 @@ TS=(
 - Índice: Web of Science Core Collection.
 
 **Resultado:** 107 registros exportados.  
-**Archivo:** `savedrecs.xls`.
 
 ### 3.3. IEEE Xplore — búsqueda amplia de cobertura
 
@@ -163,42 +162,8 @@ AND
 
 **Filtros aplicados:** 2019–2026, Journals y Conferences, idioma inglés.  
 **Resultado:** 100 registros exportados.  
-**Archivo:** `IEEE Xplore Citation BibTeX Download 2026.7.19.0.27.40.bib`.
 
-### 3.4. IEEE Xplore — búsqueda refinada
 
-La segunda consulta añadió explícitamente los ejes de comparación para aumentar la precisión del conjunto recuperado.
-
-```text
-(
-  ("All Metadata":"manifold learning")
-  OR ("All Metadata":"manifold-based embedding")
-  OR ("All Metadata":"ISOMAP")
-  OR ("All Metadata":"locally linear embedding")
-  OR ("All Metadata":"topological data analysis")
-  OR ("All Metadata":"persistent homology")
-  OR ("All Metadata":"topological descriptor")
-)
-AND
-(
-  ("All Metadata":"image classification")
-  OR ("All Metadata":"image recognition")
-)
-AND
-(
-  ("All Metadata":"accuracy")
-  OR ("All Metadata":"robustness")
-  OR ("All Metadata":"noise")
-  OR ("All Metadata":"occlusion")
-  OR ("All Metadata":"computational complexity")
-  OR ("All Metadata":"runtime")
-  OR ("All Metadata":"efficiency")
-)
-```
-
-**Filtros aplicados:** 2019–2026, Journals y Conferences, idioma inglés.  
-**Resultado:** 30 registros exportados.  
-**Archivo:** `IEEE Xplore Citation BibTeX Download 2026.7.19.0.28.9.bib`.
 
 ## 4. Procedimiento de selección
 
