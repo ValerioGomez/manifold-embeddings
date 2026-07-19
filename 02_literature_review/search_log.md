@@ -26,12 +26,12 @@ Este archivo registra las búsquedas realizadas, los filtros aplicados, los arch
 
 ## 2. Resumen del registro
 
-| Fecha | Investigador | Repositorio | Búsqueda | Registros exportados | Papers seleccionados |
-|---|---|---|---|---:|---|
-| 2026-07-19 | Jean Pierre | Scopus | Ecuación combinada: variedades o TDA + clasificación de imágenes + evaluación | 222 | P01, P02, P03, P04, P05 |
-| 2026-07-19 | Jean Pierre | WoS Core Collection | Ecuación combinada equivalente en campo `TS` | 107 | P01, P04 |
-| 2026-07-19 | Jean Pierre | IEEE Xplore | Búsqueda amplia de cobertura | 100 exportados | P03, P05 |
-| 2026-07-19 | Jean Pierre | IEEE Xplore | Búsqueda refinada con términos de evaluación | 30 exportados | P04 |
+| Fecha | Repositorio | Búsqueda | Registros exportados | Papers seleccionados |
+|---|---|---|---:|---|
+| 2026-07-19 | Scopus | Ecuación combinada: variedades o TDA + clasificación de imágenes + evaluación | 222 | P01, P02, P03, P04, P05 |
+| 2026-07-19 | WoS Core Collection | Ecuación combinada equivalente en campo `TS` | 107 | P01, P04 |
+| 2026-07-19 | IEEE Xplore | Búsqueda amplia de cobertura | 100 exportados | P03, P05 |
+| 2026-07-19 | IEEE Xplore | Búsqueda refinada con términos de evaluación | 30 exportados | P04 |
 |  |  | **Total antes de deduplicar** |  | **459** | **5 estudios únicos** |
 
 > **Nota:** “Registros exportados” no significa “estudios relevantes”. Los 459 registros fueron sometidos a deduplicación y cribado por título y resumen. Un mismo paper puede aparecer en varias bases; por eso los papers seleccionados de las filas no deben sumarse.
